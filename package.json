@@ -1,0 +1,13 @@
+{
+  "name": "token-raffle-system",
+  "version": "1.0.0",
+  "description": "Fair token holder raffle system for AR, AISTR, and ALCH tokens",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+
+  }
+}

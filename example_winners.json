@@ -1,0 +1,705 @@
+{
+  "date": "2024-12-26T19:45:26.124Z",
+  "winners": [
+    {
+      "address": "0xb5b911e2a0346a6ee7bff244ae51ded272ab1f34",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 57499,
+      "total": 57499
+    },
+    {
+      "address": "0xe8391bc9dab29e40a262f64f517a9f7b334ab8b8",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 75317,
+      "total": 75317
+    },
+    {
+      "address": "0x886e25aacd01d716544e79013f9249ce6c9990c0",
+      "AR": 0,
+      "AISTR": 73492,
+      "ALCH": 0,
+      "total": 73492
+    },
+    {
+      "address": "0xbec955d04d6b9f8bab5c7fcbbe4c0fb5181d08fa",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 54492,
+      "total": 54492
+    },
+    {
+      "address": "0x917ceef82c55e3ddd91d76cc899f8d38fd726971",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 63611,
+      "total": 63611
+    },
+    {
+      "address": "0xec100c732071cc00db42993752bdc1ebbc454038",
+      "AR": 0,
+      "AISTR": 91395,
+      "ALCH": 0,
+      "total": 91395
+    },
+    {
+      "address": "0xddaf5f4ef9a31e8702393512a86dba84081a9937",
+      "AR": 0,
+      "AISTR": 78099,
+      "ALCH": 0,
+      "total": 78099
+    },
+    {
+      "address": "0x7a595c20f43e28279cf056b7f2312faec0434db2",
+      "AR": 0,
+      "AISTR": 16691,
+      "ALCH": 0,
+      "total": 16691
+    },
+    {
+      "address": "0x90f435c4d86e1c4ff45b507729c59c3c76404139",
+      "AR": 0,
+      "AISTR": 55180,
+      "ALCH": 0,
+      "total": 55180
+    },
+    {
+      "address": "0xf17e8bc9d0e65c695a581eae5dc8046bebf17e4b",
+      "AR": 94371,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 94371
+    },
+    {
+      "address": "0x73021cc75433bac259048b822139a5aeb5f19191",
+      "AR": 77172,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 77172
+    },
+    {
+      "address": "0x54fcc889c40c5544781069d2401e0cbb7e520233",
+      "AR": 96144,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 96144
+    },
+    {
+      "address": "0xd5a77e246ec447facb2590f091c161bef9adf9ab",
+      "AR": 0,
+      "AISTR": 24013,
+      "ALCH": 0,
+      "total": 24013
+    },
+    {
+      "address": "0x1a67b4fa00c35300db8e18736735a4c84e7786dd",
+      "AR": 98775,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 98775
+    },
+    {
+      "address": "0x1e4d9e09e7a0f8269afb63137339074b3537b42d",
+      "AR": 0,
+      "AISTR": 64714,
+      "ALCH": 0,
+      "total": 64714
+    },
+    {
+      "address": "0xb1981934701e9b7ece18b3d72a69ac7962329707",
+      "AR": 87731,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 87731
+    },
+    {
+      "address": "0x9a763ab04c400fdf64c912f226b4a58c530bc15b",
+      "AR": 72901,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 72901
+    },
+    {
+      "address": "0x002d154f4c9c6fd0f6f5b83c99df491be3dcee53",
+      "AR": 67947,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 67947
+    },
+    {
+      "address": "0x88fac130230f2f84ed0309c2ccba3e5370129779",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 95800,
+      "total": 95800
+    },
+    {
+      "address": "0x520a44ab54a5c7d57be1f881b7f57f701855fb9b",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 98808,
+      "total": 98808
+    },
+    {
+      "address": "0x3bc6f1575d7459666b29c92bbc9e9d470922e330",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 97680,
+      "total": 97680
+    },
+    {
+      "address": "0xb6334bbb2a3e4efdc261ed779c3e57571f17660b",
+      "AR": 0,
+      "AISTR": 99119,
+      "ALCH": 0,
+      "total": 99119
+    },
+    {
+      "address": "0x635902ac5114871888b5c83f7429b8997110d0d0",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 63625,
+      "total": 63625
+    },
+    {
+      "address": "0xf3ff563b36bef1ba7b5e3af2b5db63bd9730dfd9",
+      "AR": 84449,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 84449
+    },
+    {
+      "address": "0x3dc29b95680d165657f4b14e2f086e2ff0bacb0b",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 64404,
+      "total": 64404
+    },
+    {
+      "address": "0x6300016c17f05f54bbc624630a3ffe8bd0a1d57e",
+      "AR": 0,
+      "AISTR": 43359,
+      "ALCH": 0,
+      "total": 43359
+    },
+    {
+      "address": "0x18e1b8131cc003ea85de351df7229d83773c26e2",
+      "AR": 0,
+      "AISTR": 82866,
+      "ALCH": 0,
+      "total": 82866
+    },
+    {
+      "address": "0xd774f36c93b2255d53d0124fb5e4c2e17bb47324",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 87809,
+      "total": 87809
+    },
+    {
+      "address": "0x29c0b875904cd218f0e15a7880919ca94cfc66d5",
+      "AR": 0,
+      "AISTR": 85945,
+      "ALCH": 0,
+      "total": 85945
+    },
+    {
+      "address": "0xfe467d51ea6a67d1d6ce7d6a562d23257eeef466",
+      "AR": 0,
+      "AISTR": 82688,
+      "ALCH": 0,
+      "total": 82688
+    },
+    {
+      "address": "0xb7badfe285a9f6e7908b74ea23684da2fecaca0e",
+      "AR": 0,
+      "AISTR": 95581,
+      "ALCH": 0,
+      "total": 95581
+    },
+    {
+      "address": "0xca2ff780cdf3ed4caef3592595b5b418ab8177d3",
+      "AR": 0,
+      "AISTR": 87456,
+      "ALCH": 0,
+      "total": 87456
+    },
+    {
+      "address": "0xb3625050aaec2ba79b9fcd3a3c2d490587858d3d",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 97290,
+      "total": 97290
+    },
+    {
+      "address": "0xf9634e7605caacb43a1eaef5dee9f72d17a56a5b",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 68759,
+      "total": 68759
+    },
+    {
+      "address": "0x5ded48f5a22e204258955b4efc9e6d9bf46dd262",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 51579,
+      "total": 51579
+    },
+    {
+      "address": "0x09a0c352e6e3feea141cbeb4ca28890e21ae3628",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 63927,
+      "total": 63927
+    },
+    {
+      "address": "0x67b68f56cefa9e560b987742a8cd462478189535",
+      "AR": 67223,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 67223
+    },
+    {
+      "address": "0x56fb12cef283492fa6f1dd7b993b80299f708b3e",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 43007,
+      "total": 43007
+    },
+    {
+      "address": "0xca8552d140b3e8042600b9e48391190ab200389a",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 54887,
+      "total": 54887
+    },
+    {
+      "address": "0x3d61f763ed11e25b068bc814c48a9f589efa18b3",
+      "AR": 94942,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 94942
+    },
+    {
+      "address": "0x253af42a592e0056abf902cdaddceb6ed64b71a4",
+      "AR": 79676,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 79676
+    },
+    {
+      "address": "0xe68578b47c2d03a3e920b945e7b37eb2c578934f",
+      "AR": 92345,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 92345
+    },
+    {
+      "address": "0x3d0287edf28e8af89bc7d1ef35d4e17bd9ddbe68",
+      "AR": 91897,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 91897
+    },
+    {
+      "address": "0xbe84128d2ed9160ff304cb1bfe7b0aafd2058125",
+      "AR": 87123,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 87123
+    },
+    {
+      "address": "0x3189185f0adb3ea65c8b47d516982e6c71fad47d",
+      "AR": 57737,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 57737
+    },
+    {
+      "address": "0xf124750b7c3ec0499e5792075949fc3bf18d7a84",
+      "AR": 0,
+      "AISTR": 58595,
+      "ALCH": 0,
+      "total": 58595
+    },
+    {
+      "address": "0x43566c031be12f554d9bd1e39a966b2f786100c3",
+      "AR": 0,
+      "AISTR": 60717,
+      "ALCH": 0,
+      "total": 60717
+    },
+    {
+      "address": "0xb37fca1e36bd416bc06a6e574b242a000f6e7b28",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 65283,
+      "total": 65283
+    },
+    {
+      "address": "0xf04d99692052e9bab8f1b58470084cc71a8a1d0e",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 77745,
+      "total": 77745
+    },
+    {
+      "address": "0xc5b06f6421ae1143eacb0967e2b46e483ad6968b",
+      "AR": 67580,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 67580
+    },
+    {
+      "address": "0x7b8e4e364138903dfe460cdc051266e1402058fe",
+      "AR": 0,
+      "AISTR": 8552,
+      "ALCH": 0,
+      "total": 8552
+    },
+    {
+      "address": "0x588ff80cf3db3c8485350a75667c1fb78f286d8f",
+      "AR": 0,
+      "AISTR": 65842,
+      "ALCH": 0,
+      "total": 65842
+    },
+    {
+      "address": "0x5271bfce710e5f645934f5cb0836370d52615fe7",
+      "AR": 0,
+      "AISTR": 76314,
+      "ALCH": 0,
+      "total": 76314
+    },
+    {
+      "address": "0x7617d440e5103d10e4761868e9d3a36cbf59f122",
+      "AR": 63746,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 63746
+    },
+    {
+      "address": "0x93b00641d4dfa3169fedb1e71cb9e5af1edcb661",
+      "AR": 58324,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 58324
+    },
+    {
+      "address": "0xa74142d70c91e9f3b7c042b9c64e11c796c32603",
+      "AR": 77476,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 77476
+    },
+    {
+      "address": "0x542d9f4dd4157166812c802ca6e98b5907d67189",
+      "AR": 23859,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 23859
+    },
+    {
+      "address": "0x94346fda8700050872ab3d31c8ca572dc7aee235",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 87610,
+      "total": 87610
+    },
+    {
+      "address": "0x533508c4c3131822fb3b87ca18fd51f9632e6c0e",
+      "AR": 0,
+      "AISTR": 86363,
+      "ALCH": 0,
+      "total": 86363
+    },
+    {
+      "address": "0xc0b3ebb36f37556f561cf5bd910d90403b198d11",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 20104,
+      "total": 20104
+    },
+    {
+      "address": "0x28e625772c07bc89e79c3a320e1c9f266a5aeb28",
+      "AR": 0,
+      "AISTR": 73314,
+      "ALCH": 0,
+      "total": 73314
+    },
+    {
+      "address": "0x998625213a2d4e665b41c32f40fb7da8beb44a3f",
+      "AR": 0,
+      "AISTR": 55523,
+      "ALCH": 0,
+      "total": 55523
+    },
+    {
+      "address": "0x75734ae2db25ab7ed785fe3a8ef30f0a74684bad",
+      "AR": 0,
+      "AISTR": 30948,
+      "ALCH": 0,
+      "total": 30948
+    },
+    {
+      "address": "0x19259b88e385150a12e79498760382e6e6ba68f2",
+      "AR": 0,
+      "AISTR": 77924,
+      "ALCH": 0,
+      "total": 77924
+    },
+    {
+      "address": "0x71c09157b62b3d55a445cbf2ba4b9d30aba7c75e",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 54134,
+      "total": 54134
+    },
+    {
+      "address": "0xce38b5ef38c8781b2b245a395cb1b739ec48913d",
+      "AR": 0,
+      "AISTR": 80682,
+      "ALCH": 0,
+      "total": 80682
+    },
+    {
+      "address": "0x26c381a270fde9ddd7e0757dc75d6f687bf086b8",
+      "AR": 0,
+      "AISTR": 92531,
+      "ALCH": 0,
+      "total": 92531
+    },
+    {
+      "address": "0x09d4ad84b1616096e097e6c309ae1ac75e7892be",
+      "AR": 66337,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 66337
+    },
+    {
+      "address": "0x884cbbde86040f28e269171634651e70adee138e",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 66904,
+      "total": 66904
+    },
+    {
+      "address": "0x46ef6ca51757a095fd94873397135797d50e55b7",
+      "AR": 69281,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 69281
+    },
+    {
+      "address": "0xc933eb5d583af4c2edae79892ebb87379031a967",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 50946,
+      "total": 50946
+    },
+    {
+      "address": "0x67522720283cce3d90de0fee4404cf250420b527",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 79484,
+      "total": 79484
+    },
+    {
+      "address": "0xe676a48b5f8157a36d7eb01c976a17cb77ee88b9",
+      "AR": 0,
+      "AISTR": 99483,
+      "ALCH": 0,
+      "total": 99483
+    },
+    {
+      "address": "0xa0c1870b09969986fb3747aeaadbc938637f4fda",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 83211,
+      "total": 83211
+    },
+    {
+      "address": "0x2a978fe3775cf6cc6c296e0070f970d638eb703d",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 37965,
+      "total": 37965
+    },
+    {
+      "address": "0xc0492d3158ac5b993736a176e17a9972dd2c20fe",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 69990,
+      "total": 69990
+    },
+    {
+      "address": "0x548b041a7d4df24b77c2ac4fdbf1d26830b8cd88",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 22527,
+      "total": 22527
+    },
+    {
+      "address": "0x168330c40a47ba32ae2fbad31ca121bfc60343d2",
+      "AR": 80665,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 80665
+    },
+    {
+      "address": "0x15b4ea628e1c7b8411134b09e8a75acf6150a3c1",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 84065,
+      "total": 84065
+    },
+    {
+      "address": "0x8cc78f1802fe38f73ca8c28d3bf7a94d65d960bd",
+      "AR": 0,
+      "AISTR": 91470,
+      "ALCH": 0,
+      "total": 91470
+    },
+    {
+      "address": "0xeae2f2ac7fb5889b1c8e82d685b3261e4d439a02",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 49535,
+      "total": 49535
+    },
+    {
+      "address": "0x01ad5a4f0a8c57644bbacf1e90c4cfc358b42ecb",
+      "AR": 66965,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 66965
+    },
+    {
+      "address": "0xfb4d3e3b6bc161b54dc9b35f25692a59f4bcc153",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 72287,
+      "total": 72287
+    },
+    {
+      "address": "0x34fc99a7a272ba173a95499bc17f825dec83b86a",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 74766,
+      "total": 74766
+    },
+    {
+      "address": "0xd2bda06d1a304a5836dbda765330585eae24d847",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 21182,
+      "total": 21182
+    },
+    {
+      "address": "0x54e701c5ace771060a8f3c55f386c3e99d4120c5",
+      "AR": 39873,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 39873
+    },
+    {
+      "address": "0xb7a8b73f9b661099d1daa5b56cbd1eababf72b35",
+      "AR": 0,
+      "AISTR": 90001,
+      "ALCH": 0,
+      "total": 90001
+    },
+    {
+      "address": "0xf6c90f392824b469f0229266435cc79ef2b93032",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 48859,
+      "total": 48859
+    },
+    {
+      "address": "0x84f056235f9e50f88a7581fdce1782a5092d1217",
+      "AR": 0,
+      "AISTR": 75387,
+      "ALCH": 0,
+      "total": 75387
+    },
+    {
+      "address": "0x5f63c3e7b0de357c6cbdb78c30925de7cb6a61d3",
+      "AR": 0,
+      "AISTR": 83155,
+      "ALCH": 0,
+      "total": 83155
+    },
+    {
+      "address": "0x130856371e9de0d487c3ae4d0d52468b186c9a7f",
+      "AR": 0,
+      "AISTR": 46210,
+      "ALCH": 0,
+      "total": 46210
+    },
+    {
+      "address": "0xebe255696e14264004cb17f31844cd3b3ee521b0",
+      "AR": 95194,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 95194
+    },
+    {
+      "address": "0x3d2c5ddc8352d60822396342edba6660d26c6acc",
+      "AR": 0,
+      "AISTR": 81533,
+      "ALCH": 0,
+      "total": 81533
+    },
+    {
+      "address": "0xa044da1c2d7560fd571a89d6e6a666fc91d5b0b6",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 31453,
+      "total": 31453
+    },
+    {
+      "address": "0x7d6a71a0ec161ef9602d2f526b2ae4de2cfa4fbb",
+      "AR": 70107,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 70107
+    },
+    {
+      "address": "0xb5115cf8a5463bcbee2507c91fba21526e27f411",
+      "AR": 0,
+      "AISTR": 32381,
+      "ALCH": 0,
+      "total": 32381
+    },
+    {
+      "address": "0x0de40398746c7214573b850d12b2216788b04bda",
+      "AR": 0,
+      "AISTR": 73574,
+      "ALCH": 0,
+      "total": 73574
+    },
+    {
+      "address": "0xa2c70d4bf103f73c7892a05d7c22aa5489b91a89",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 79570,
+      "total": 79570
+    },
+    {
+      "address": "0xae1f4a82280a52eacabf39e6b3277bcadfcf52bd",
+      "AR": 0,
+      "AISTR": 0,
+      "ALCH": 96376,
+      "total": 96376
+    },
+    {
+      "address": "0xf2928ecbabfe3d9206934f0d78151cb1c24ffceb",
+      "AR": 63143,
+      "AISTR": 0,
+      "ALCH": 0,
+      "total": 63143
+    }
+  ]
+}
